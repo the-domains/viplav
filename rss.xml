@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Viplav]]></title>
+        <description><![CDATA[Viplav]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 08 Feb 2016 02:47:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hololens is the future]]></title>
+            <description><![CDATA[<article><h1>Hololens is the future</h1><p>The best way to experience Augmented Reality</p></article>]]></description>
+            <link>undefinedhololens-is-the-future/index.html</link>
+            <guid isPermaLink="false">95112d39-da6d-4283-a35d-fcfec40090be</guid>
+            <pubDate>Mon, 08 Feb 2016 02:46:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
