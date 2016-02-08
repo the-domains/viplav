@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Viplav]]></title>
         <description><![CDATA[Viplav]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/viplav/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 02:47:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 02:52:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/viplav/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hololens is the future]]></title>
-            <description><![CDATA[<article><h1>Hololens is the future</h1><p>The best way to experience Augmented Reality</p></article>]]></description>
-            <link>undefinedhololens-is-the-future/index.html</link>
+            <description><![CDATA[<article><h1>Hololens is the future</h1><p>The best way to experience Augmented Reality</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29066be2a97ba5d689960dc4d366d32e27e39bbd.png"></article>]]></description>
+            <link>https://thegrid.ai/viplav/hololens-is-the-future/index.html</link>
             <guid isPermaLink="false">95112d39-da6d-4283-a35d-fcfec40090be</guid>
-            <pubDate>Mon, 08 Feb 2016 02:46:55 GMT</pubDate>
+            <pubDate>Mon, 08 Feb 2016 02:52:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
