@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Viplav]]></title>
-        <description><![CDATA[Viplav]]></description>
+        <title><![CDATA[Smart Address]]></title>
+        <description><![CDATA[Smart Address]]></description>
         <link>https://thegrid.ai/viplav/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 06:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 06:28:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/viplav/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Hololens is the future]]></title>
-            <description><![CDATA[<article><h1>Hololens is the future</h1><p>The best way to experience Augmented Reality</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62e761d2e2f4301b7e362960316d1dfbd57a5e86.png"></article>]]></description>
-            <link>https://thegrid.ai/viplav/hololens-is-the-future/index.html</link>
-            <guid isPermaLink="false">95112d39-da6d-4283-a35d-fcfec40090be</guid>
-            <pubDate>Mon, 08 Feb 2016 02:52:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Smart Address</p>]]></description>
+            <title><![CDATA[Smart Address]]></title>
+            <description><![CDATA[<h1>Smart Address</h1>]]></description>
             <link>https://thegrid.ai/viplav/smart-address/index.html</link>
             <guid isPermaLink="false">2b115df0-431e-4afc-8c5b-dbec382ed971</guid>
-            <pubDate>Wed, 23 Mar 2016 06:24:43 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2016 06:28:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
