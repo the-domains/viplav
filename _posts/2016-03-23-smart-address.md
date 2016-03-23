@@ -3,12 +3,12 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: Smart Address
-datePublished: '2016-03-23T06:25:16.189Z'
-dateModified: '2016-03-23T06:24:46.988Z'
-title: ''
+description: ''
+datePublished: '2016-03-23T06:28:05.205Z'
+dateModified: '2016-03-23T06:27:49.482Z'
+title: Smart Address
 author: []
 sourcePath: _posts/2016-03-23-smart-address.md
 published: true
@@ -22,4 +22,7 @@ url: smart-address/index.html
 _type: Article
 
 ---
-Smart Address
+# Smart Address
+
+Smart Address is a 9-character alpha-numeric string chosen by user
+that maps to his/her temporary/permanent home address
